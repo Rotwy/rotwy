@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Hey%20there,%20I'm%20Rotwy%20👋&fontSize=38&fontAlignY=38&desc=Roblox%20Systems%20Developer%20%7C%20Discord%20Bot%20Architect%20%7C%20Automation%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Hey%20there,%20I'm%20Rotwy%20👋&fontSize=38&fontAlignY=38&desc=Roblox%20Developer%20%7C%20Discord%20Bots%20%7C%20Automation&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Roblox+Anti-Cheat+%26+Core+Systems;Crafting+Advanced+Discord.js+V14+Bots;Automating+Workflows+%26+Cloud+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Roblox+Systems+%26+Anti-Cheat+Development;Discord.js+V14+%26+Python+Automation+Tools;Backend+Utilities+%26+Open+Cloud+APIs" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Discord-Rotwy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:rotwy02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Location-Turkey-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </div>
@@ -20,15 +20,15 @@
 
 ### 👨‍💻 About Me
 
-I am a software developer dedicated to crafting robust game mechanics, high-performance community bots, and clean backend automations.
+Hey, I'm Rotwy. I build Discord bots, Roblox game systems, and backend automation tools.
 
-- 🕹️ **Roblox & Luau Engineering:** Specializing in anti-cheat systems (speed, teleport, noclip, raycasting), server-side validation, ProfileService session-locking, and Roblox Open Cloud APIs.
-- 🤖 **Discord Bots & Security:** Building feature-packed Discord.js v14 & Python bots, server protection / anti-nuke guardians, and seamless Roblox group rank synchronizers.
-- ⚡ **Philosophy:** Clean architecture, modular code, and maximum performance.
+- 🕹️ **Roblox / Luau:** Server-side mechanics, Anti-Cheat detection, ProfileService data management, and Open Cloud API integrations.
+- 🤖 **Discord Bots:** Discord.js v14 & Python automation utilities, ranking systems, and server management tools.
+- ⚙️ **Focus:** Clean logic, reliable performance, and simple architecture.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
 <p align="left">
   <b>Languages:</b><br/>
@@ -42,10 +42,9 @@ I am a software developer dedicated to crafting robust game mechanics, high-perf
 </p>
 
 <p align="left">
-  <b>Frameworks, Libraries & Tools:</b><br/>
+  <b>Tools & Frameworks:</b><br/>
   <img src="https://img.shields.io/badge/Discord.js_v14-5865F2?style=flat-square&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Open_Cloud-000000?style=flat-square&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -53,7 +52,7 @@ I am a software developer dedicated to crafting robust game mechanics, high-perf
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Rotwy">
